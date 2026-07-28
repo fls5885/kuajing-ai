@@ -1,0 +1,12 @@
+kuajing-ai/
+├── server.js
+├── package.json
+├── package-lock.json
+├── render.yaml
+├── .env.example
+├── .gitignore
+├── README.md
+└── public/
+    ├── index.html
+    ├── style.css
+    └── app.js
