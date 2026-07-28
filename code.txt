@@ -1,4 +1,4 @@
-kuajing-ai/
+仓库根目录/
 ├── server.js
 ├── package.json
 ├── package-lock.json
